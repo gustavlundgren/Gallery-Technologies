@@ -1,0 +1,11 @@
+Company Name:
+Gallery Technologies
+
+Company Description:
+We are a company that develops new ways to discover new movies by combining open-source software with an easy to use interface. Our main product is an app that you can use wherever you are and implements new creative techniques. Our target audience is seniors. We want to convey a sense of faithfulness, while at the same time being agreeable.
+
+Job Description:
+You must create a website that will mainly provide customer support for the company. The goal is to make the website easy to navigate. Besides the landing page, the website will need a information page, shop page and a terms of service page. The landing page should have a Our Values section. There should be a call to action to get users to view the catalogue. They would prefer a luxurious design, and would like you to use the brand color, which is blue. Take into account the client's preferences and values.
+
+Deadline:
+1 week
